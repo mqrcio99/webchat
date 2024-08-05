@@ -1,0 +1,19 @@
+/* Mensagens enviadas */
+.sent-message {
+    background-color: #dbeafe; /* Light blue */
+    color: #000;
+    text-align: right; /* Alinha o texto à direita */
+}
+
+/* Mensagens recebidas */
+.received-message {
+    background-color: #d1fae5; /* Light green */
+    color: #000;
+    text-align: left; /* Alinha o texto à esquerda */
+}
+
+/* Temporizador */
+.timestamp {
+    font-size: 0.75rem;
+    color: #6b7280; /* Gray color */
+}
